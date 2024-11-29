@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatesh-babu09" alt="venkatesh-babu09" /></a> </p>
 
-- 🔭 I’m currently working on **JOB PORTAL WEBSITE**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **MERN**
 
